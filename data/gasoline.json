@@ -1,92 +1,92 @@
-    [
+[
     {
-    "name": "Trạm Xăng Dầu Petrolimex",
-    "timeOnline": "Mở cửa cả ngày",
-    "district": "Đống Đa, Hà Nội",
-    "image": [
-        "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
-        "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
-        "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
-    ],
-    "description": "Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
-    "address": "185 Nguyễn Lương Bằng, Quang Trung, Đống Đa, Hà Nội, Việt Nam",
-    "phone": "+842438574062",
-    "lat": 21.01781501158105, 
-    "long": 105.82689717180911 
+       "name":"Trạm Xăng Dầu Petrolimex",
+       "timeOnline":"Mở cửa cả ngày",
+       "district":"Đống Đa, Hà Nội",
+       "image":[
+          "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
+          "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
+          "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
+       ],
+       "description":"Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
+       "address":"185 Nguyễn Lương Bằng, Quang Trung, Đống Đa, Hà Nội, Việt Nam",
+       "phone":"+842438574062",
+       "lat":21.01781501158105,
+       "long":105.82689717180911
     },
     {
-        "name": "Trạm Xăng Dầu Petrolimex",
-        "timeOnline": "Mở cửa cả ngày",
-        "district": "Hoàn Kiếm, Hà Nội",
-        "image": [
-            "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
-            "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
-            "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
-        ],
-        "description": "Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
-        "address": "8 Trần Hưng Đạo, Phan Chu Trinh, Hoàn Kiếm, Hà Nội, Việt Nam",
-        "phone": "+842438574062",
-        "lat": 21.02150049898041, 
-        "long": 105.85865452819272 
-        },
-        {
-            "name": "Trạm Xăng Dầu Petrolimex",
-            "timeOnline": "Mở cửa cả ngày",
-            "district": "Thanh xuân, Hà Nội",
-            "image": [
-                "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
-                "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
-                "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
-            ],
-            "description": "Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
-            "address": "495/ 20 Nguyễn Trãi, Thanh Xuân Nam, Thanh Xuân, Hà Nội, Việt Nam",
-            "phone": "+842435588726",
-            "lat": 20.988232177672565,  
-            "long": 105.79883237057204 
-            },
-            {
-                "name": "Trạm Xăng Dầu Petrolimex",
-                "timeOnline": "Mở cửa cả ngày",
-                "district": "Thanh xuân, Hà Nội",
-                "image": [
-                    "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
-                    "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
-                    "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
-                ],
-                "description": "Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
-                "address": "20 Phạm Hùng, Mỹ Đình, Từ Liêm, Hà Nội, Việt Nam",
-                "phone": "+842437686643",
-                "lat": 20.988232177672565,  
-                "long": 105.79883237057204 
-                },
-        {
-            "name": "Trạm Xăng Dầu Petrolimex",
-            "timeOnline": "Mở cửa cả ngày",
-            "district": "Thanh xuân, Hà Nội",
-            "image": [
-                "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
-                "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
-                "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
-            ],
-            "description": "Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
-            "address": "171 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Việt Nam",
-            "phone": "+842437683119",
-            "lat": 21.036368120704154, 
-            "long": 105.78582587313322   
-            },
-        {
-            "name": "Trạm Xăng Dầu Petrolimex",
-            "timeOnline": "Mở cửa cả ngày",
-            "district": "Thanh xuân, Hà Nội",
-            "image": [
-                "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
-                "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
-                "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
-            ],
-            "description": "Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
-            "address": "123 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội, Việt Nam",
-            "phone": "+842435531156",
-            "lat": 21.000255547730593, 
-            "long": 105.79722844645167   
-        }
-]
+       "name":"Trạm Xăng Dầu Petrolimex",
+       "timeOnline":"Mở cửa cả ngày",
+       "district":"Hoàn Kiếm, Hà Nội",
+       "image":[
+          "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
+          "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
+          "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
+       ],
+       "description":"Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
+       "address":"8 Trần Hưng Đạo, Phan Chu Trinh, Hoàn Kiếm, Hà Nội, Việt Nam",
+       "phone":"+842438574062",
+       "lat":21.02150049898041,
+       "long":105.85865452819272
+    },
+    {
+       "name":"Trạm Xăng Dầu Petrolimex",
+       "timeOnline":"Mở cửa cả ngày",
+       "district":"Thanh xuân, Hà Nội",
+       "image":[
+          "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
+          "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
+          "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
+       ],
+       "description":"Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
+       "address":"495/ 20 Nguyễn Trãi, Thanh Xuân Nam, Thanh Xuân, Hà Nội, Việt Nam",
+       "phone":"+842435588726",
+       "lat":20.988232177672565,
+       "long":105.79883237057204
+    },
+    {
+       "name":"Trạm Xăng Dầu Petrolimex",
+       "timeOnline":"Mở cửa cả ngày",
+       "district":"Thanh xuân, Hà Nội",
+       "image":[
+          "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
+          "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
+          "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
+       ],
+       "description":"Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
+       "address":"20 Phạm Hùng, Mỹ Đình, Từ Liêm, Hà Nội, Việt Nam",
+       "phone":"+842437686643",
+       "lat":20.988232177672565,
+       "long":105.79883237057204
+    },
+    {
+       "name":"Trạm Xăng Dầu Petrolimex",
+       "timeOnline":"Mở cửa cả ngày",
+       "district":"Thanh xuân, Hà Nội",
+       "image":[
+          "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
+          "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
+          "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
+       ],
+       "description":"Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
+       "address":"171 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Việt Nam",
+       "phone":"+842437683119",
+       "lat":21.036368120704154,
+       "long":105.78582587313322
+    },
+    {
+       "name":"Trạm Xăng Dầu Petrolimex",
+       "timeOnline":"Mở cửa cả ngày",
+       "district":"Thanh xuân, Hà Nội",
+       "image":[
+          "https://fs.petrolimex.com.vn/ThumbnailBigPngs/009F5E88CCEE4FDFAAE342D005EB52C2/0/600/315/CC95BA63B466417E961A26C3516AA1BE/0/405240/CHAO-MUNG-45-NAM-NGAY-THANH-LAP-PETROLIMEX-SAI-GON-Cua-hang-xang-dau-nen-tang-cho-su-phat-trien-cua-Petrolimex-Sai-Gon--crop--btwm.png",
+          "https://files.petrolimex.com.vn/Files/009F5E88CCEE4FDFAAE342D005EB52C2/image=jpeg/6daf17f08b344f74b53f4e8c0fa179a1/CH30-2.jpg",
+          "https://files.petrolimex.com.vn/Files/6783DC1271FF449E95B74A9520964169/image=jpeg/c2bc1089df6342ac9484b3df0a306ffd/anh%20Sinh%20ch%E1%BB%A5p.jpg"
+       ],
+       "description":"Bán các loại xăng dầu phù hợp cho xe máy, xe ô tô\n1 số loại xăng dầu E5 RON 92-II, Xăng RON 95-IV, Xăng RON 95-III...",
+       "address":"123 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội, Việt Nam",
+       "phone":"+842435531156",
+       "lat":21.000255547730593,
+       "long":105.79722844645167
+    }
+ ]
